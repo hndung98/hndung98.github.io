@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dung Hoang!</h1>
-<h3 align="center">A full stack web developer</h3>
+<h3 align="center">A full-stack web developer</h3>
+
+<br>
 
 - 👨‍💻 All of my projects are available at [https://hndung98.github.io/](https://hndung98.github.io/)
 
-- 📫 How to reach me **hoangdung.200298@gmail.com**
+- 💬 Visit my website at [https://zoe-dh98.vercel.app/](https://nekko-dh98.vercel.app/) or [https://zoe-dh98.vercel.app/](https://zoe-dh98.vercel.app/)
 
-- ⚡ **How far I can go?**
+- 📫 Reach me: **hoangdung.200298@gmail.com**
+
+- ⚡ Fun fact: **How far I can go?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,6 +17,9 @@
   <a href="https://www.youtube.com/c/dunghn907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dunghn907" height="30" width="40" /></a>
 </p>
 
+<br>
+
+<h2 align="center">Skills</h2>
 
 <h3 align="left">Frameworks and Libraries:</h3>
 <p align="left">
@@ -99,6 +106,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hndung98&show_icons=true&locale=en&layout=compact" alt="hndung98" /></p>
 
 
-- 💬 Find logo at [https://www.vectorlogo.zone/logos/](https://www.vectorlogo.zone/logos/)
-- 💬 Visit my website at [https://zoe-dh98.vercel.app/](https://nekko-dh98.vercel.app/)
-- 💬 or [https://zoe-dh98.vercel.app/](https://zoe-dh98.vercel.app/)
+<h2 align="center">Supporters</h2>
+- 🤝 Created by [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+- 🤝 Get logo at here [https://www.vectorlogo.zone/logos/](https://www.vectorlogo.zone/logos/)
+- 🤝 My lovely family
