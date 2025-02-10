@@ -100,5 +100,5 @@
 
 
 - 💬 Find logo at [https://www.vectorlogo.zone/logos/](https://www.vectorlogo.zone/logos/)
-- 💬 My personal website [https://zoe-dh98.vercel.app/](https://zoe-dh98.vercel.app/)
-
+- 💬 Visit my website at [https://zoe-dh98.vercel.app/](https://nekko-dh98.vercel.app/)
+- 💬 or [https://zoe-dh98.vercel.app/](https://zoe-dh98.vercel.app/)
