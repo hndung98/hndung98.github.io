@@ -114,6 +114,8 @@
 
 - 🌱 <a href="https://mui.com/material-ui/all-components/" target="_blank">Material UI</a>
 
+- 🌱 <a href="https://once-ui.com/docs/installation" target="_blank">Once UI</a>
+
 - 🌱 <a href="https://www.figma.com/" target="_blank">Figma</a>
 
 - 🌱 <a href="https://www.ironcalc.com/" target="_blank">IronCalc</a>
@@ -127,6 +129,10 @@
 - 🌱 <a href="https://dirpy.com/from/youtube" target="_blank">Dirpy From Yt</a>
 
 - 🌱 <a href="https://www.freepik.com/" target="_blank">Freepik</a>
+
+- 🌱 <a href="https://react-icons.github.io/react-icons/" target="_blank">React Icons</a>
+
+- 🌱 <a href="https://favicon.io/favicon-converter/" target="_blank">Favicon Converter</a>
 
 - 🌱 <a href="https://www.vectorlogo.zone/logos/" target="_blank">IT Logo</a>
 
