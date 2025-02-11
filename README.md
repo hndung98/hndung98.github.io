@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hndung98.github.io/](https://hndung98.github.io/)
 
-- 💬 Visit my website: <a href="https://nekko-dh98.vercel.app/" target="_blank">My Portfolio</a> | <a href="https://zoe-dh98.vercel.app/" target="_blank">My Dashboard</a>
+- 👯 Visit my website: <a href="https://nekko-dh98.vercel.app/" target="_blank">My Portfolio</a> | <a href="https://zoe-dh98.vercel.app/" target="_blank">My Dashboard</a>
 
 - 📫 Reach me: **hoangdung.200298@gmail.com**
 
