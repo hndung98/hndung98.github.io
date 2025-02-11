@@ -107,33 +107,33 @@
 
 <h2 align="center">My favorite tools</h2>
 
-- 🌱 <a href=";https://www.kifinity.com/oss/dataexpert-io/data-engineer-handbook" target="_blank">Data Engineer Handbook</a>
+- 🌱 <a href="https://www.kifinity.com/oss/dataexpert-io/data-engineer-handbook" target="_blank">Data Engineer Handbook</a>
 
-- 🌱 <a href=";https://www.figma.com/" target="_blank">Figma</a>
+- 🌱 <a href="https://www.figma.com/" target="_blank">Figma</a>
 
-- 🌱 <a href=";https://www.ironcalc.com/" target="_blank">IronCalc</a>
+- 🌱 <a href="https://www.ironcalc.com/" target="_blank">IronCalc</a>
 
-- 🌱 <a href=";https://www.overleaf.com/project" target="_blank">Overleaf</a>
+- 🌱 <a href="https://www.overleaf.com/project" target="_blank">Overleaf</a>
 
-- 🌱 <a href=";https://dirpy.com/from/youtube" target="_blank">Dirpy From Yt</a>
+- 🌱 <a href="https://dirpy.com/from/youtube" target="_blank">Dirpy From Yt</a>
 
-- 🌱 <a href=";https://about.gitea.com/" target="_blank">Gitea</a>
+- 🌱 <a href="https://about.gitea.com/" target="_blank">Gitea</a>
 
-- 🌱 <a href=";https://dictionary.cambridge.org/vi/" target="_blank">Cambridge</a>
+- 🌱 <a href="https://dictionary.cambridge.org/vi/" target="_blank">Cambridge</a>
 
-- 🌱 <a href=";https://www.freepik.com/" target="_blank">Freepik</a>
+- 🌱 <a href="https://www.freepik.com/" target="_blank">Freepik</a>
 
-- 🌱 <a href=";https://app.diagrams.net/" target="_blank">Diagrams</a>
+- 🌱 <a href="https://app.diagrams.net/" target="_blank">Diagrams</a>
 
-- 🌱 <a href=";https://mui.com/material-ui/all-components/" target="_blank">Material UI</a>
+- 🌱 <a href="https://mui.com/material-ui/all-components/" target="_blank">Material UI</a>
 
-- 🌱 <a href=";https://chatgpt.com/" target="_blank">ChatGPT</a>
+- 🌱 <a href="https://chatgpt.com/" target="_blank">ChatGPT</a>
 
-- 🌱 <a href=";https://gemini.google.com/app?hl=vi" target="_blank">Gemini</a>
+- 🌱 <a href="https://gemini.google.com/app?hl=vi" target="_blank">Gemini</a>
 
-- 🌱 <a href=";https://www.vectorlogo.zone/logos/" target="_blank">IT Logo</a>
+- 🌱 <a href="https://www.vectorlogo.zone/logos/" target="_blank">IT Logo</a>
 
 
 <h2 align="center">Powered by</h2>
 
-- 🤝 <a href=";https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank">Profile Generator</a>
+- 🤝 <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank">Profile Generator</a>
