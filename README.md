@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hndung98.github.io/](https://hndung98.github.io/)
 
-- 💬 Visit my website at [https://nekko-dh98.vercel.app/](https://nekko-dh98.vercel.app/) or [https://zoe-dh98.vercel.app/](https://zoe-dh98.vercel.app/)
+- 💬 Visit my website: <a href="https://nekko-dh98.vercel.app/" target="_blank">My Portfolio</a> | <a href="https://zoe-dh98.vercel.app/" target="_blank">My Dashboard</a>
 
 - 📫 Reach me: **hoangdung.200298@gmail.com**
 
@@ -105,8 +105,35 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hndung98&show_icons=true&locale=en&layout=compact" alt="hndung98" /></p>
 
+<h2 align="center">My favorite tools</h2>
 
-<h2 align="center">Supporters</h2>
-- 🤝 Created by [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-- 🤝 Get logo at here [https://www.vectorlogo.zone/logos/](https://www.vectorlogo.zone/logos/)
-- 🤝 My lovely family
+- 🌱 <a href=";https://www.kifinity.com/oss/dataexpert-io/data-engineer-handbook" target="_blank">Data Engineer Handbook</a>
+
+- 🌱 <a href=";https://www.figma.com/" target="_blank">Figma</a>
+
+- 🌱 <a href=";https://www.ironcalc.com/" target="_blank">IronCalc</a>
+
+- 🌱 <a href=";https://www.overleaf.com/project" target="_blank">Overleaf</a>
+
+- 🌱 <a href=";https://dirpy.com/from/youtube" target="_blank">Dirpy From Yt</a>
+
+- 🌱 <a href=";https://about.gitea.com/" target="_blank">Gitea</a>
+
+- 🌱 <a href=";https://dictionary.cambridge.org/vi/" target="_blank">Cambridge</a>
+
+- 🌱 <a href=";https://www.freepik.com/" target="_blank">Freepik</a>
+
+- 🌱 <a href=";https://app.diagrams.net/" target="_blank">Diagrams</a>
+
+- 🌱 <a href=";https://mui.com/material-ui/all-components/" target="_blank">Material UI</a>
+
+- 🌱 <a href=";https://chatgpt.com/" target="_blank">ChatGPT</a>
+
+- 🌱 <a href=";https://gemini.google.com/app?hl=vi" target="_blank">Gemini</a>
+
+- 🌱 <a href=";https://www.vectorlogo.zone/logos/" target="_blank">IT Logo</a>
+
+
+<h2 align="center">Powered by</h2>
+
+- 🤝 <a href=";https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank">Profile Generator</a>
